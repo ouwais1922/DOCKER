@@ -1,3 +1,5 @@
+![Docker-Logo](https://user-images.githubusercontent.com/72993155/235827494-564e6e6b-d448-4b8b-8d8d-30f7594029b0.png)
+
 VMs & containers:
 
 1- Architecture: Containers share the same  operating system kernel, whereas VMs require a separate operating system instance for each VM. This means that containers are more lightweight and use fewer resources compared to VMs, which need to replicate the entire operating system.
